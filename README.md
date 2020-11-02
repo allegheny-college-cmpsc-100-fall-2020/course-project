@@ -69,13 +69,21 @@ Your goal is deceptively complex: come up with an interesting concept and figure
 
 ## Supporting readings
 
-These readings will be the subject our lab activity this week. They are all much less complex than they seem. Don't focus on the code, though (I provide it as a reference), focus on the _process you think the author used to make them_. This is less about "load a file and read a line" and more about thinking (using _Generative Detective_ as a sample):
+These readings will be the subject our lab activity this week. Concentrate on the Kazemi reading and one or two of the projects there and one or two of the projects I've provided.
+
+They are all much less complex than they seem. Don't focus on the code, though (I provide it as a reference), focus on the _process you think the author used to make them_. This is less about "load a file and read a line" and more about thinking (using _Generative Detective_ as a sample):
 
 1. I would find a picture and do something to it to make it look like a comic book
 2. I would find some detective novel or text that's interesting
 3. I would randomly take a line from that text using some keywords
 4. I'd then paste that line at the bottom in a box that looks like comic book descriptions
 5. I will not care if it only vaguely makes sense, but it's better if it does
+
+This post from [notoriously great internet person Darius Kazemi](https://tinysubversions.com/) should help break down some of the "OMIGOSHICAN'TDOTHATWUT" that tends to accompany the first time you do someting like this:
+
+* [Even a beginner programmer can make a novel generator](https://tinysubversions.com/notes/nanogenmo-2019/)
+
+### More examples
 
 * [Translating _World Clock_](http://opentranscripts.org/transcript/translating-world-clock/)
   * This source is less about the translation and more about the process
